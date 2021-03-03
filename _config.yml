@@ -1,4 +1,4 @@
-title: Anthony Ginder Website
+title: Anthony Ginder's Website
 author: Anthony Ginder 
 email: hello@anthonyginder.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Anthony Ginder
-  tagline: Engineering Student.
+  tagline: Industrial Engineering Student.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -24,8 +24,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
+    email: hello@anthonyginder.com
     #twitter: samarsault
-    github:  Bluntananas
+    #github:  Bluntananas
     linkedIn: in/anthonyginder/
     #rss: rss
     #dribbble: jekyll
@@ -37,7 +38,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    email: hello@anthonyginder.com
+    
 
     # Mastodon instances
     # mastodon:

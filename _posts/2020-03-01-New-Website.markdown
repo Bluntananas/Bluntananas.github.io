@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "New Website"
+title:  "Website update 2.0"
 date:   2020-03-01 21:03:36 +0530
 categories: Perso
 ---
 
 # New version of my website 
+
+New year, new update, new theme. 
 
 ### To do list
 
