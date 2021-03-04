@@ -26,7 +26,7 @@ Dell XPS 15, first high-end laptotp, august 2016.
 - Intel 6700HQ
 - Nvidia GTX 960m
 - 16Go RAM
-- 512Go SDD
+- 512Go SSD
 
 ---
 
@@ -40,7 +40,7 @@ Synology DS218, october 2019.
 - 4To Ironwolf NAS
 - 2To Ironwolf
 
-No RAID production. 
+No RAID protection. 
 
 List of services running on the NAS : 
 
