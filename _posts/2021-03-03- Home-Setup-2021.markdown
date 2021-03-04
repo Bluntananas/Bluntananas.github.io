@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "2021 Home Setup"
+date:   2021-03-03 19:09:56 +0530
+categories: Home
+---
+
+# 2021 Home Setup
+
+## Computers
+
+### Main Computer
+
+First PC build, October 2020. 
+
+- AMD 3700X
+- MSI RTX3080 Ventus
+- Crucial 32Go RAM @3600Mhz
+- Samsung SSD 1To
+- Dell 27" + 24" monitors
+
+### Laptop
+
+Dell XPS 15, first high-end laptotp, august 2016. 
+
+- Intel 6700HQ
+- Nvidia GTX 960m
+- 16Go RAM
+- 512Go SDD
+
+---
+
+## Server
+
+### NAS
+
+Synology DS218, october 2019.
+
+- 2Go RAM
+- 4To Ironwolf NAS
+- 2To Ironwolf
+
+No RAID production. 
+
+List of services running on the NAS : 
+
+Docker : 
+
+- Plex Server : Media player server.
+- Tautulli : Plex monitoring.
+- AdGuard : network Adblocker.
+- Home Assistant : Home automation software.
+- Transmission : Torrent client for Sonaar.
+
+Synology Package : 
+
+- Sonaar : TV show download.
+- Jackett : Indexers for Sonaar.
+
+**To do : Install Sonarr and Jackatt as Docker Container.** 
+
+### Raspberry Pi Zero
+
+Jeedom server : Home automation server. 
+
+---
+
+## Smart Home devices
+
+### Sonos speakers
+
+- 2x Sonos Play:1
+- Sonos Play:3
+- Sonos Symfonisk
+
+### Xiaomi Aquara
+
+- 2x Temperature/humidity sensor
+
+### HUE light
+
+- 2x LED light Strip
+- 3x Play light
+- 4x Bulk lights
+- 1x Motion detector
+
+### Netatmo
+
+- Smart Thermostat
+
+### Smart Mirror
+
+- Raspberry Pi 3 B+
